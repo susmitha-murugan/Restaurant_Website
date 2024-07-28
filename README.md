@@ -3,4 +3,5 @@ Welcome to Futo, a fully responsive restaurant website built from scratch using 
 
 ![image](https://github.com/user-attachments/assets/ee625945-b415-4924-aed0-081ac8c23456)
 
-Here is the Website Preview: 
+Here is the Website Preview: https://susmitha-murugan.github.io/Restaurant_Website/
+
